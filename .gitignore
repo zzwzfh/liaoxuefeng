@@ -1,0 +1,6 @@
+*.pyc
+venv/*
+*.sh
+*.bat
+__pycache__
+
